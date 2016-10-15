@@ -1,0 +1,9 @@
+[Openkore-RO]
+ip opkro.openkore.in
+port 6900
+master_version 10
+version 24
+serverType kRO_RagexeRE_2012_04_10a
+serverEncoding Thai
+addTableFolders kRO/RagexeRE_2012_04_10a;translated;translated/kRO_english;kRO
+charBlockSize 144
